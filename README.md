@@ -8,3 +8,4 @@ Daily engineering entries.
 - [03-07-2026](03-07-2026.md) ([code](03-07-2026.rs)) — Rust Error Architecture
 - [04-07-2026](04-07-2026.md) — Deterministic Chaos & The Lorenz Attractor
 - [06-07-2026](06-07-2026.md) - Model Quantization Architecture
+- [07-07-2026](07-07-2026.md) - LoRA & QLoRA: Low-Rank Adaptation
