@@ -9,3 +9,4 @@ Daily engineering entries.
 - [04-07-2026](04-07-2026.md) — Deterministic Chaos & The Lorenz Attractor
 - [06-07-2026](06-07-2026.md) - Model Quantization Architecture
 - [07-07-2026](07-07-2026.md) - LoRA & QLoRA: Low-Rank Adaptation
+- [08-07-2026](08-07-2026.md) - Latent Space Anomaly Detection: Reconstruction Loss & Threshold Dynamics
