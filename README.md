@@ -10,3 +10,4 @@ Daily engineering entries.
 - [06-07-2026](06-07-2026.md) - Model Quantization Architecture
 - [07-07-2026](07-07-2026.md) - LoRA & QLoRA: Low-Rank Adaptation
 - [08-07-2026](08-07-2026.md) - Latent Space Anomaly Detection: Reconstruction Loss & Threshold Dynamics
+- [09-07-2026](09-07-2026.md) ([code](09-07-2026.py)) — The Schwarzschild Metric & Gravitational Redshift
