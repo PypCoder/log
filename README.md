@@ -13,3 +13,4 @@ Daily engineering entries.
 - [09-07-2026](09-07-2026.md) ([code](09-07-2026.py)) — The Schwarzschild Metric & Gravitational Redshift
 - [10-07-2026](10-07-2026.md) ([code](10-07-2026.rs)) - Rust Smart Pointers — Rc, Arc, RefCell, and Send/Sync
 - [11-07-2026](11-07-2026.md) — The Twin Paradox: Relativity of Simultaneity Breaks the Symmetry
+- [15-07-2026](15-07-2026.md) - Zero-Copy Serialization
