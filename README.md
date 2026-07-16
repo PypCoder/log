@@ -14,3 +14,4 @@ Daily engineering entries.
 - [10-07-2026](10-07-2026.md) ([code](10-07-2026.rs)) - Rust Smart Pointers — Rc, Arc, RefCell, and Send/Sync
 - [11-07-2026](11-07-2026.md) — The Twin Paradox: Relativity of Simultaneity Breaks the Symmetry
 - [15-07-2026](15-07-2026.md) - Zero-Copy Serialization
+- [16-07-2026](16-07-2026.md) ([code](16-07-2026.py)) — Speculative Decoding: Modified Rejection Sampling & Memory Bandwidth Arithmetic
